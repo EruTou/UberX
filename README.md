@@ -1,4 +1,3 @@
 # UberX
-Simple Uber Landing Page
-Hello everyone.
-I made my first website :)
+<p>I made my first website :)</p>
+<p>Simple Uber Landing Page</p>
